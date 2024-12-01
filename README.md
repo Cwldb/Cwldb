@@ -10,7 +10,7 @@
 
 ### About me
 ----
-<a href="https://instagram.com/jiyxu._.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiyxu_08" height="30" width="40" /></a> <br>
+<a href="https://instagram.com/jiyxu_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiyxu_08" height="30" width="40" /></a> <br>
 
 <!--
 **Cwldb/Cwldb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
